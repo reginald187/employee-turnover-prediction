@@ -71,6 +71,15 @@ The dataset contains the following employee characteristics:
 - `salary`
 
 **Dataset:** [HR Capstone Dataset](Data/HR_capstone_dataset.csv)
+### Dataset Source
+
+The dataset used in this project was provided through the **Google Advanced Data Analytics Professional Certificate — Course 6 Capstone Project (Salifort Motors)**.
+
+The dataset was adapted from the original **HR Analytics and Job Prediction** dataset available on Kaggle for educational purposes.
+
+**Original Dataset Source:** [HR Analytics and Job Prediction — Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction)
+
+The dataset contains information on employee satisfaction, performance evaluations, project workload, working hours, tenure, promotions, departments, salary levels and employee turnover.
 
 ## 4. Exploratory Data Analysis
 
